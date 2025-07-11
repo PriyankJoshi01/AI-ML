@@ -1,0 +1,13 @@
+openai-whisper
+transformers
+torch
+torchaudio
+gradio
+matplotlib
+librosa
+soundfile
+numpy
+scipy
+gdown
+ffmpeg-python
+pydub
